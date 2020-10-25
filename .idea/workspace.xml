@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35321dc1-9078-4ab9-ab59-084574387baa" name="Default Changelist" comment="commit" />
+    <list default="true" id="35321dc1-9078-4ab9-ab59-084574387baa" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/Source.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603656002593</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1603656267897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603656267897</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,10 +156,14 @@
       <screen x="0" y="27" width="1920" height="1005" />
     </state>
     <state x="827" y="444" width="324" height="264" key="VCS.EditChangelistDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1603655082678" />
-    <state x="555" y="265" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603656022385">
+    <state x="555" y="265" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603656364346">
       <screen x="0" y="27" width="1920" height="1005" />
     </state>
-    <state x="555" y="265" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1005@0.27.1920.1005" timestamp="1603656022385" />
+    <state x="555" y="265" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1005@0.27.1920.1005" timestamp="1603656364346" />
+    <state x="100" y="127" width="1720" height="805" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603657175617">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="100" y="127" width="1720" height="805" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1603657175617" />
     <state x="762" y="246" width="385" height="573" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603655931355">
       <screen x="0" y="27" width="1920" height="1005" />
     </state>

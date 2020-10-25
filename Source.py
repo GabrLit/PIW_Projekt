@@ -11,7 +11,7 @@ image = cv2.imread(args["input"])
 
 B = image[:, :, 0]
 G = image[:, :, 1]
-R = image[:, :, 2]##
+R = image[:, :, 2]
 
 gray = (0.3 * R + 0.59 * G + 0.11 * B)
 gray = gray.astype(np.uint8)
