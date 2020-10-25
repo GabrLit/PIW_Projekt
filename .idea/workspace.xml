@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35321dc1-9078-4ab9-ab59-084574387baa" name="Default Changelist" comment="Initial Commit">
+      <changelist_data name="Gabriel" email="gabriel.litwinski@onet.pl" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gabriel &lt;gabriel.litwinski@onet.pl&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1jNorMEiQyHq1bDSIrLWng8QR0l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35321dc1-9078-4ab9-ab59-084574387baa" name="Default Changelist" comment="" />
+      <created>1603654107998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603654107998</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1603654502552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603654502552</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1603654750633</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603654750633</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1603655209071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603655209071</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commitf" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603654466549">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="418" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1603654466549" />
+    <state x="731" y="273" width="447" height="520" key="FileChooserDialogImpl" timestamp="1603654383229">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="731" y="273" width="447" height="520" key="FileChooserDialogImpl/0.27.1920.1005@0.27.1920.1005" timestamp="1603654383229" />
+    <state x="751" y="450" width="417" height="165" key="Github.CreateGistDialog" timestamp="1603654481684">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="751" y="450" width="417" height="165" key="Github.CreateGistDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1603654481684" />
+    <state x="806" y="429" width="307" height="207" key="Github.ShareDialog" timestamp="1603655037182">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="806" y="429" width="307" height="207" key="Github.ShareDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1603655037182" />
+    <state x="441" y="130" width="1022" height="737" key="SettingsEditor" timestamp="1603655901506">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="441" y="130" width="1022" height="737" key="SettingsEditor/0.27.1920.1005@0.27.1920.1005" timestamp="1603655901506" />
+    <state x="827" y="444" width="324" height="264" key="VCS.EditChangelistDialog" timestamp="1603655082678">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="827" y="444" width="324" height="264" key="VCS.EditChangelistDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1603655082678" />
+    <state x="555" y="265" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603655548384">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="555" y="265" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1005@0.27.1920.1005" timestamp="1603655548384" />
+    <state x="762" y="246" width="385" height="573" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603655100086">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="762" y="246" width="385" height="573" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1603655100086" />
+    <state x="741" y="444" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603655538552">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state x="741" y="444" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1005@0.27.1920.1005" timestamp="1603655538552" />
+  </component>
+</project>
