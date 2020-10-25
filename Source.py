@@ -8,7 +8,7 @@ args = vars(ap.parse_args())
 
 # reading image
 image = cv2.imread(args["input"])
-###
+
 B = image[:, :, 0]
 G = image[:, :, 1]
 R = image[:, :, 2]
