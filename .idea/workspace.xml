@@ -58,6 +58,34 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RunManager">
+    <configuration name="Source" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PIW_Projekt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Source.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Source" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -109,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603657485020</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <created>1603660384888</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603660384888</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +169,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -159,6 +195,22 @@
       <screen x="0" y="27" width="1920" height="1005" />
     </state>
     <state x="806" y="429" width="307" height="207" key="Github.ShareDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1603655037182" />
+    <state width="1897" height="236" key="GridCell.Tab.0.bottom" timestamp="1603748112248">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1897" height="236" key="GridCell.Tab.0.bottom/0.27.1920.1005@0.27.1920.1005" timestamp="1603748112248" />
+    <state width="1897" height="236" key="GridCell.Tab.0.center" timestamp="1603748112247">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1897" height="236" key="GridCell.Tab.0.center/0.27.1920.1005@0.27.1920.1005" timestamp="1603748112247" />
+    <state width="1897" height="236" key="GridCell.Tab.0.left" timestamp="1603748112247">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1897" height="236" key="GridCell.Tab.0.left/0.27.1920.1005@0.27.1920.1005" timestamp="1603748112247" />
+    <state width="1897" height="236" key="GridCell.Tab.0.right" timestamp="1603748112247">
+      <screen x="0" y="27" width="1920" height="1005" />
+    </state>
+    <state width="1897" height="236" key="GridCell.Tab.0.right/0.27.1920.1005@0.27.1920.1005" timestamp="1603748112247" />
     <state x="441" y="130" width="1022" height="737" key="SettingsEditor" timestamp="1603659445503">
       <screen x="0" y="27" width="1920" height="1005" />
     </state>
@@ -167,10 +219,10 @@
       <screen x="0" y="27" width="1920" height="1005" />
     </state>
     <state x="827" y="444" width="324" height="264" key="VCS.EditChangelistDialog/0.27.1920.1005@0.27.1920.1005" timestamp="1603655082678" />
-    <state x="555" y="265" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603657489407">
+    <state x="555" y="265" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603660388226">
       <screen x="0" y="27" width="1920" height="1005" />
     </state>
-    <state x="555" y="265" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1005@0.27.1920.1005" timestamp="1603657489407" />
+    <state x="555" y="265" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1005@0.27.1920.1005" timestamp="1603660388226" />
     <state x="100" y="127" width="1720" height="805" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603657175617">
       <screen x="0" y="27" width="1920" height="1005" />
     </state>
